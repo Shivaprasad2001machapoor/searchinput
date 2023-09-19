@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.suggestion-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.arrow {
+  height: 25px;
+  width: 25px;
+}
